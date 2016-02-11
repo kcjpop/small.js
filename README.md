@@ -1,5 +1,5 @@
-# tiny.js
-A collection of small but powerful and (hopefully) independent JavaScript libraries. PRs are very welcome.
+# small.js
+A collection of small but powerful and (hopefully) independent JavaScript libraries. Suggestions and PRs are very welcome.
 
 
 ### Frameworks
@@ -14,3 +14,5 @@ A collection of small but powerful and (hopefully) independent JavaScript librar
 ### UI Libraries
 
 * [dbushell/Pikaday](https://github.com/dbushell/Pikaday) (<5KB gz)  lightweight, no dependencies, modular CSS datepicker 
+* [nathancahill/split.js](https://github.com/nathancahill/split.js) (1.64KB) [![Build Status](https://travis-ci.org/nathancahill/Split.js.svg?branch=v0.4.4)](https://travis-ci.org/nathancahill/Split.js) lightweight, unopinionated lib for making adjustable panes, horizontally or vertically
+* [bevacqua/dragula](https://github.com/bevacqua/dragula) (11.1KB) [![Travis CI](https://travis-ci.org/bevacqua/dragula.svg)](https://travis-ci.org/bevacqua/dragula) :ok_hand: Drag and drop so simple it hurts
