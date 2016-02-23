@@ -18,3 +18,4 @@ A collection of small but powerful and (hopefully) independent JavaScript librar
 * [bevacqua/dragula](https://github.com/bevacqua/dragula) (11.1KB) [![Travis CI](https://travis-ci.org/bevacqua/dragula.svg)](https://travis-ci.org/bevacqua/dragula) :ok_hand: Drag and drop so simple it hurts
 * [Nycto/PicoModal](https://github.com/Nycto/PicoModal) (2KB) [![Build Status](https://secure.travis-ci.org/Nycto/PicoModal.png?branch=master)](http://travis-ci.org/Nycto/PicoModal) A small, self-contained JavaScript modal library
 * [callmecavs/bricks.js](https://github.com/callmecavs/bricks.js) (4.09KB)  A blazing fast masonry layout generator for fixed width elements
+* [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) (4.29KB gz) Touch gestures support for websites, no 300ms-delay clicks
