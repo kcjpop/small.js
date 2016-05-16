@@ -20,3 +20,4 @@ A collection of small but powerful and (hopefully) independent JavaScript librar
 * [callmecavs/bricks.js](https://github.com/callmecavs/bricks.js) (4.09KB)  A blazing fast masonry layout generator for fixed width elements
 * [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) (4.29KB gz) Touch gestures support for websites, no 300ms-delay clicks
 * [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) (9.61KB) [![Build Status](http://img.shields.io/travis/zenorocha/clipboard.js/master.svg?style=flat)](https://travis-ci.org/zenorocha/clipboard.js) Modern copy to clipboard. No Flash. Just 2kb gzipped
+* [caolan/copykitten] (https://github.com/caolan/copykitten) (~2.4KB) Tiny immutable JSON data structures
