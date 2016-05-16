@@ -10,6 +10,7 @@ A collection of small but powerful and (hopefully) independent JavaScript librar
 
 * [Teamweek/instadate](https://github.com/Teamweek/instadate) (6.31KB) [![Build Status](https://travis-ci.org/Teamweek/instadate.svg?branch=master)](https://travis-ci.org/Teamweek/instadate) fast, small, and immutable date library
 * [rpominov/kefir](https://github.com/rpominov/kefir) (<10KB gz) [![Build Status](https://travis-ci.org/rpominov/kefir.svg?branch=master)](https://travis-ci.org/rpominov/kefir) an Reactive Programming library inspired by Bacon.js and RxJS
+* [caolan/copykitten] (https://github.com/caolan/copykitten) (~2.4KB) Tiny immutable JSON data structures
 
 ### UI Libraries
 
@@ -20,4 +21,3 @@ A collection of small but powerful and (hopefully) independent JavaScript librar
 * [callmecavs/bricks.js](https://github.com/callmecavs/bricks.js) (4.09KB)  A blazing fast masonry layout generator for fixed width elements
 * [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) (4.29KB gz) Touch gestures support for websites, no 300ms-delay clicks
 * [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) (9.61KB) [![Build Status](http://img.shields.io/travis/zenorocha/clipboard.js/master.svg?style=flat)](https://travis-ci.org/zenorocha/clipboard.js) Modern copy to clipboard. No Flash. Just 2kb gzipped
-* [caolan/copykitten] (https://github.com/caolan/copykitten) (~2.4KB) Tiny immutable JSON data structures
