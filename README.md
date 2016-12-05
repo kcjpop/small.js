@@ -9,6 +9,7 @@ A collection of small but powerful and (hopefully) independent JavaScript librar
 ### Utilities
 
 * [Teamweek/instadate](https://github.com/Teamweek/instadate) (6.31KB) [![Build Status](https://travis-ci.org/Teamweek/instadate.svg?branch=master)](https://travis-ci.org/Teamweek/instadate) fast, small, and immutable date library
+* [taylorhakes/fecha](https://github.com/taylorhakes/fecha) (9.42KB) [![Build Status](https://travis-ci.org/taylorhakes/fecha.svg?branch=master)](https://travis-ci.org/taylorhakes/fecha) Javascript Date formatting and parsing 
 * [rpominov/kefir](https://github.com/rpominov/kefir) (<10KB gz) [![Build Status](https://travis-ci.org/rpominov/kefir.svg?branch=master)](https://travis-ci.org/rpominov/kefir) an Reactive Programming library inspired by Bacon.js and RxJS
 * [caolan/copykitten] (https://github.com/caolan/copykitten) (~2.4KB) Tiny immutable JSON data structures
 
